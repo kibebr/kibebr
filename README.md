@@ -14,10 +14,9 @@ i currently live in Liverpool, UK.
 - [Understanding the quick-sort algorithm](https://dev.to/kibebr/understanding-the-quick-sort-algorithm-1aah)
 
 ### :stars: Github stats
-
+[![Vitor's GitHub stats](https://github-readme-stats.vercel.app/api?username=kibebr)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kibebr&hide=html)](https://github.com/anuraghazra/github-readme-stats)
 <br>
-[![Vitor's GitHub stats](https://github-readme-stats.vercel.app/api?username=kibebr)](https://github.com/anuraghazra/github-readme-stats)
 
 ### :iphone: reach out to me :)
 - e-mail: vitordriguesss@gmail.com
