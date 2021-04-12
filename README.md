@@ -21,4 +21,4 @@ i currently live in Liverpool, UK.
 
 ### :iphone: reach out to me :)
 - e-mail: vitordriguesss@gmail.com
-- Discord: kibe#9876
+- Discord: kibe:brazil:#9876
