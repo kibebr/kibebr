@@ -11,7 +11,7 @@ i currently live in Liverpool, UK.
 
 ### :closed_book: articles I wrote
 - [I made a game in C run in a web browser and so can you](https://medium.com/swlh/i-made-a-game-in-c-run-in-a-web-browser-and-so-can-you-2911b9fe2368?sk=b839987dd50740634c898d90d7673bc7)
-- [Understanding the quick-sort algorithm](https://dev.to/kibebr/understanding-the-quick-sort-algorithm-1aah)
+- [Understanding the binary search algorithm](https://dev.to/kibebr/understanding-the-quick-sort-algorithm-1aah)
 
 ### :stars: Github stats
 [![Vitor's GitHub stats](https://github-readme-stats.vercel.app/api?username=kibebr)](https://github.com/anuraghazra/github-readme-stats)
