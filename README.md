@@ -15,8 +15,8 @@ i currently live in Liverpool, UK.
 
 ### :stars: Github stats
 [![Vitor's GitHub stats](https://github-readme-stats.vercel.app/api?username=kibebr)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kibebr&hide=html)](https://github.com/anuraghazra/github-readme-stats)
 <br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kibebr&hide=html)](https://github.com/anuraghazra/github-readme-stats)
 
 ### :iphone: reach out to me :)
 - e-mail: vitordriguesss@gmail.com
