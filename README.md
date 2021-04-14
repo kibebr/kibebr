@@ -1,6 +1,6 @@
 ## hey there, i'm Vitor. 👋
 
-18 years old. fell in love with programming once I realized I could make a Minecraft block with my name at 12. nowadays, I'm learning functional programming full-time and dabbling with Haskell.
+18 years old. learning functional programming full-time and dabbling with Haskell.
 
 i currently live in Liverpool, UK.
 
