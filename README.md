@@ -1,6 +1,6 @@
 18yo, liverpool | miami
 
-### :loudspeaker
+### :loudspeaker:
 - :brazil: portuguese
 - :us: english
 - :mexico: spanish
