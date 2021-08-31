@@ -1,8 +1,4 @@
-## hey there, i'm Vitor. 👋
-
-18 years old. learning functional programming full-time and dabbling with Haskell.
-
-i currently live in Liverpool, UK.
+18yo, liverpool | miami
 
 ### :loudspeaker: i speak
 - :brazil: portuguese
