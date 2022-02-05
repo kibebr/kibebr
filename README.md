@@ -1,4 +1,4 @@
-18yo, liverpool | miami
+18yo, manchester | miami
 
 ### :loudspeaker:
 - :brazil: portuguese
