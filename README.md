@@ -1,4 +1,4 @@
-18yo, manchester | miami
+manchester | miami
 
 ### :loudspeaker:
 - :brazil: portuguese
@@ -14,5 +14,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kibebr&hide=html)](https://github.com/anuraghazra/github-readme-stats)
 
 ### :iphone: reach out to me :)
-- e-mail: vitordriguesss@gmail.com
+- e-mail: hellofromvitor@gmail.com
 - Discord: kibe:brazil:#9876
