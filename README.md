@@ -6,6 +6,4 @@
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kibebr&hide=html)](https://github.com/anuraghazra/github-readme-stats)
 
-### :iphone: reach out to me
-- e-mail: hellofromvitor@gmail.com
-- Discord: kibe:brazil:#9876
+hellofromvitor@gmail.com
